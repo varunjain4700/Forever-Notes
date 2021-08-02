@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "785809914360",
+    "project_id": "forever-notes-204b1",
+    "storage_bucket": "forever-notes-204b1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:785809914360:android:327bf94ec4bec86f70be0d",
+        "android_client_info": {
+          "package_name": "com.example.forevernotes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "785809914360-2e8vifqlube0343mvbbb7n3cboq69sgb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCM8jzCZRKrVLfMPPf5jVHS5KFHY9JI2gc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "785809914360-2e8vifqlube0343mvbbb7n3cboq69sgb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
